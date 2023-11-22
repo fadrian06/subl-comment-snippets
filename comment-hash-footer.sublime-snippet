@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+# ======  End of ${1:Section comment block}  =======
+
+]]></content>
+	<tabTrigger>comm-hash-footer</tabTrigger>
+	<scope>source.python, embedding.php, source.env, source.ini, text.git, source.apacheconf, source.yaml, source.http</scope>
+	<description>Comment - Section footer Hash comment</description>
+</snippet>

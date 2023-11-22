@@ -8,5 +8,6 @@
 
 ]]></content>
 	<tabTrigger>comm-py-block</tabTrigger>
+	<scope>source.python</scope>
 	<description>Comment - Block style Python comment</description>
 </snippet>

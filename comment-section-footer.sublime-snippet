@@ -4,5 +4,6 @@
 
 ]]></content>
 	<tabTrigger>comm-section-footer</tabTrigger>
+	<scope>source.json, embedding.php</scope>
 	<description>Comment - Section footer comment</description>
 </snippet>

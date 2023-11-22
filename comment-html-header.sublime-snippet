@@ -6,5 +6,6 @@
 
 ]]></content>
 	<tabTrigger>comm-html-header</tabTrigger>
+	<scope>text.html, text.xml</scope>
 	<description>Comment - HTML section header</description>
 </snippet>

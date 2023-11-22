@@ -3,6 +3,7 @@
 # -----------  ${1:Subsection comment block}  -----------
 
 ]]></content>
-	<tabTrigger>comm-py-subsection</tabTrigger>
+	<tabTrigger>comm-hash-subsection</tabTrigger>
+	<scope>source.python, embedding.php, source.env, source.ini, text.git, source.apacheconf, source.yaml, source.http</scope>
 	<description>Comment - Subsection Python comment</description>
 </snippet>

@@ -8,5 +8,6 @@
 
 ]]></content>
 	<tabTrigger>comm-block</tabTrigger>
+	<scope>source.json, embedding.php</scope>
 	<description>Comment - Block style comment</description>
 </snippet>

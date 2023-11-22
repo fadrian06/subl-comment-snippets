@@ -9,6 +9,7 @@ $2
 # ======  End of ${1:Section comment block}  =======
 
 ]]></content>
-	<tabTrigger>comm-py-section</tabTrigger>
+	<tabTrigger>comm-hash-section</tabTrigger>
+	<scope>source.python, embedding.php, source.env, source.ini, text.git, source.apacheconf, source.yaml, source.http</scope>
 	<description>Comment - Full section Python comment</description>
 </snippet>

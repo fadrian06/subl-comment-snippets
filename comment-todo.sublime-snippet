@@ -10,5 +10,6 @@
 
 ]]></content>
 	<tabTrigger>comm-todo</tabTrigger>
+	<scope>source.json, embedding.php</scope>
 	<description>Comment - To-do list</description>
 </snippet>

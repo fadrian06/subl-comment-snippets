@@ -7,6 +7,7 @@
 $2
 
 ]]></content>
-	<tabTrigger>comm-py-header</tabTrigger>
+	<tabTrigger>comm-hash-header</tabTrigger>
+	<scope>source.python, embedding.php, source.env, source.ini, text.git, source.apacheconf, source.yaml, source.http</scope>
 	<description>Comment - Section header Python comment</description>
 </snippet>

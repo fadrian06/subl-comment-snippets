@@ -10,5 +10,6 @@
 
 ]]></content>
 	<tabTrigger>comm-py-todo</tabTrigger>
+	<scope>source.python</scope>
 	<description>Comment - To-do Python list</description>
 </snippet>
