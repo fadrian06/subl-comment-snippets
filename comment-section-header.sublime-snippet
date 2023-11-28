@@ -8,6 +8,6 @@ $2
 
 ]]></content>
 	<tabTrigger>comm-section-header</tabTrigger>
-	<scope>source.json, embedding.php</scope>
+	<scope>source.json, embedding.php, source.sql</scope>
 	<description>Comment - Section header comment</description>
 </snippet>

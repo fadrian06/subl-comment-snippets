@@ -10,6 +10,6 @@ $2
 
 ]]></content>
 	<tabTrigger>comm-section</tabTrigger>
-	<scope>source.json, embedding.php</scope>
+	<scope>source.json, embedding.php, source.sql</scope>
 	<description>Comment - Full section comment</description>
 </snippet>

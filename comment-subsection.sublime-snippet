@@ -4,6 +4,6 @@
 
 ]]></content>
 	<tabTrigger>comm-subsection</tabTrigger>
-	<scope>source.json, embedding.php</scope>
+	<scope>source.json, embedding.php, source.sql</scope>
 	<description>Comment - Subsection comment</description>
 </snippet>
